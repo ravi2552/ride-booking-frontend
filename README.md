@@ -1,7 +1,7 @@
 # 🚖 **QuickCab - Frontend**  
 QuickCab is the frontend application for a ride-hailing service, built with **ReactJS, HTML, and CSS**. It provides a responsive and intuitive user interface for **Riders, Drivers, and Admins** to seamlessly manage rides, track locations, and handle payments. The app uses **OpenStreetMap** for real-time route visualization, offering smooth navigation, dynamic forms, and role-based access control.  
 
-🔗 **Backend Repository:** [QuickCab-Backend](https://github.com/TOUHID704/QuickCab-Backend)  
+🔗 **Backend Repository:** [Ride Booking-Backend](https://github.com/ravi2552/uber-backend-springboot)  
 
 ---
 
